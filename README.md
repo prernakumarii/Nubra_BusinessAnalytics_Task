@@ -4,6 +4,7 @@
 Nubra is a fintech platform designed to simplify stock trading and investment learning for engineers across India. By combining an intuitive trading interface with educational resources, Nubra aims to build financial literacy and long-term wealth awareness among technical professionals and students.
 ## 🎯 Goal & Approach
 The objective of this analysis is to create a Go-to-Market (GTM) strategy that enables Nubra to onboard all engineers in India into the trading ecosystem. The approach involves market research, audience segmentation, competitive benchmarking, and a year-long execution roadmap focused on partnerships, digital outreach, and data-driven growth.
+### [Charts and Graphs ](https://1drv.ms/x/c/61611ae940d88060/ETLEDqG4Ie5BhoEJQ23K8gsBsfHOToRNqKrPxjQEpEeaIQ?e=YdH1z1)
 ### 🌟 Key Features and Contents
 - Go-to-Market strategy framework
 - Market sizing and segmentation analysis
